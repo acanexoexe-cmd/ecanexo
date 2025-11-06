@@ -1,5 +1,5 @@
 # ecanexo
-## :collision: __Plantamiento del Problema__ 
+## :collision: __Plantamiento del Problema__ :octocat:
 La implementación de un sistema digital de gestión tiene un impacto significativo en la organización y trazabilidad de los materiales dentro de las recicladoras. En muchos de estos centros, la falta de herramientas tecnológicas provoca la pérdida de información clave sobre el ingreso, clasificación y salida de materiales. Esta situación genera dificultades en el control del inventario, disminuye la eficiencia operativa y afecta directamente la rentabilidad del negocio.
 Para enfrentar este problema, hemos decidido desarrollar un software especializado que permita optimizar la gestión de materiales reciclables, automatizar los procesos de registro y mantener un inventario actualizado en tiempo real. De esta forma, las recicladoras podrán contar con una mayor trazabilidad, control y transparencia en sus operaciones, mejorando la toma de decisiones y potenciando la sostenibilidad del proceso productivo.
 
