@@ -11,7 +11,7 @@ Frente a esta situación, se propone el desarrollo de un software de gestión qu
 ¿Cómo puede el desarrollo e implementación de un software de gestión ayudar a solucionar la pérdida de información en una empresa recicladora, optimizando el control de inventario y manteniendo datos actualizados en tiempo real?
 El desarrollo de un software de gestión permite registrar el ingreso y salida de materiales en tiempo real, evitando la pérdida de información, mejorando el control del inventario y aumentando la eficiencia operativa de la empresa recicladora
 
-## :exclamation: __Objetivo general__
+## :exclamation: __Objetivo general__ :pushpin:
 Desarrollar un software de gestión que permita controlar de manera eficiente la entrada y salida de materiales reciclables, garantizando un inventario actualizado y preciso. Este sistema facilitará el registro automatizado de los movimientos de materiales, reducirá errores humanos y mejorará la trazabilidad de la información. Además, permitirá a la empresa tomar decisiones más acertadas, optimizar sus recursos y aumentar la eficiencia operativa, contribuyendo a un proceso de reciclaje más organizado y sostenible.
 
 ## __Objetivos especificos__
@@ -23,7 +23,7 @@ Desarrollar un software de gestión que permita controlar de manera eficiente la
 
 :four: Medir el impacto del sistema en la eficiencia operativa después de su implementación.
 
-## :tada: __Alcance__:seedling:
+## :tada: __Alcance__ :seedling:
 El sistema apoyará principalmente los procesos de registro de entrada y salida de materiales, el control y la actualización del inventario, así como la generación de reportes que faciliten la toma de decisiones. Su enfoque estará orientado a mejorar la eficiencia operativa y la trazabilidad de los materiales dentro de la empresa recicladora.
 
 No cubrirá, por el momento, áreas administrativas como finanzas o recursos humanos, ya que su desarrollo inicial se centrará en fortalecer la gestión de materiales y el manejo del inventario. En futuras etapas, se podría considerar la integración de nuevos módulos que amplíen las funcionalidades del sistema, permitiendo una gestión más integral de la organización.
